@@ -1,0 +1,66 @@
+name: Weekly sound harvest
+
+on:
+  schedule:
+    - cron: "0 3 * * 0"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: ["docs/index.html", ".github/workflows/harvest.yml"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: harvest
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run offline self-tests
+        run: cd harvest && python3 -m unittest test_harvest
+      - name: Harvest new sounds
+        run: python3 harvest/harvest.py
+        env:
+          FREESOUND_API_KEY: ${{ secrets.FREESOUND_API_KEY }}
+          OPENVERSE_CLIENT_ID: ${{ secrets.OPENVERSE_CLIENT_ID }}
+          OPENVERSE_CLIENT_SECRET: ${{ secrets.OPENVERSE_CLIENT_SECRET }}
+      - name: Commit new sounds
+        run: |
+          git config user.name "sound-harvester"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A docs
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Weekly sound harvest $(date -u +%F)"
+            git push
+          fi
+
+  deploy:
+    needs: harvest
+    if: ${{ !cancelled() && (needs.harvest.result == 'success' || needs.harvest.result == 'skipped') }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event_name == 'push' && github.sha || github.ref_name }}
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deployment
+        uses: actions/deploy-pages@v4
