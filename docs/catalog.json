@@ -1,1 +1,24 @@
-{"updated": null, "items": []}
+{
+ "updated": "2026-11-06",
+ "items": [
+  {
+   "id": "ov-22fa0d8e-aad1-4206-8a51-c65edd5d39bd",
+   "name": "Inspiring Soft Background",
+   "category": "adsmusic",
+   "type": "music",
+   "file": "audio/adsmusic/ov-22fa0d8e-aad1-4206-8a51-c65edd5d39bd.mp3",
+   "ext": "mp3",
+   "size": 1513009,
+   "duration": 62.0,
+   "license": "by",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "Soundrider/Dope",
+   "source": "Openverse/jamendo",
+   "source_id": "ov-22fa0d8e-aad1-4206-8a51-c65edd5d39bd",
+   "source_url": "https://www.jamendo.com/track/1670559",
+   "attribution": "\"Inspiring Soft Background\" by Soundrider/Dope via Openverse (https://www.jamendo.com/track/1670559) — CC BY (https://creativecommons.org/licenses/by/3.0/)",
+   "sha1": "490dcc311b65bc0e00230b28128e87a4efeb5813",
+   "added": "2026-11-06"
+  }
+ ]
+}
