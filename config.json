@@ -1,0 +1,40 @@
+{
+  "per_run": 16,
+  "max_library_mb": 600,
+  "max_file_mb": 6,
+  "licenses_allowed": ["cc0", "pdm", "by"],
+  "categories": {
+    "transitions": {
+      "label": "انتقالات", "type": "sfx", "quota": 2, "min_seconds": 0.3, "max_seconds": 6,
+      "queries": ["whoosh", "swoosh transition", "swipe transition", "riser transition", "fast whoosh"]
+    },
+    "cinematic": {
+      "label": "سينمائية", "type": "sfx", "quota": 2, "min_seconds": 0.5, "max_seconds": 10,
+      "queries": ["cinematic hit", "impact boom", "trailer hit", "cinematic braam", "deep impact"]
+    },
+    "comedy": {
+      "label": "كوميدية", "type": "sfx", "quota": 2, "min_seconds": 0.3, "max_seconds": 6,
+      "queries": ["cartoon boing", "funny sound effect", "slide whistle", "cartoon bonk", "comic fail"]
+    },
+    "laughter": {
+      "label": "ضحك", "type": "sfx", "quota": 2, "min_seconds": 0.5, "max_seconds": 12,
+      "queries": ["laughter", "crowd laughing", "kids laughing", "giggle", "evil laugh"]
+    },
+    "typing": {
+      "label": "كتابة", "type": "sfx", "quota": 1, "min_seconds": 1, "max_seconds": 15,
+      "queries": ["typing keyboard", "typewriter", "keyboard typing fast", "mechanical keyboard"]
+    },
+    "textprice": {
+      "label": "ظهور نصوص وأسعار", "type": "sfx", "quota": 2, "min_seconds": 0.2, "max_seconds": 5,
+      "queries": ["ui pop", "text appear pop", "cash register", "ka-ching coin", "notification ping"]
+    },
+    "surprise": {
+      "label": "مفاجآت", "type": "sfx", "quota": 2, "min_seconds": 0.3, "max_seconds": 8,
+      "queries": ["surprise stinger", "ta-da fanfare", "gasp surprise", "record scratch", "magic reveal"]
+    },
+    "adsmusic": {
+      "label": "موسيقى إعلانية", "type": "music", "quota": 3, "min_seconds": 20, "max_seconds": 150,
+      "queries": ["upbeat corporate background", "energetic commercial music", "happy advertising background", "uplifting promo music", "inspiring background"]
+    }
+  }
+}
