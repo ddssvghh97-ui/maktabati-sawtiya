@@ -4,6 +4,48 @@ Sounds marked **CC BY** require crediting the author when used in a published vi
 
 | Title | Author | License | Source |
 |---|---|---|---|
+| Cartoon_Falling....falling | CGEffex | CC BY | https://freesound.org/people/CGEffex/sounds/89546/ |
+| notification chime | mokasza | CC BY | https://freesound.org/people/mokasza/sounds/810191/ |
+| MUSCBrass-Blue Snowball Microphone, CU_'Ta Da!', Duo Trumpet_Nicholas Judy_TDC | designerschoice | CC BY | https://freesound.org/people/designerschoice/sounds/809020/ |
+| Woosh | florianreichelt | CC0 1.0 | https://freesound.org/people/florianreichelt/sounds/683096/ |
+| DullThud | TriqyStudio | CC0 1.0 | https://freesound.org/people/TriqyStudio/sounds/653370/ |
+| Bosch’s Garden – Mythical Game Music for Fantasy and AI Projects | kjartan_abel | CC BY | https://freesound.org/people/kjartan_abel/sounds/647212/ |
+| Typewriter | AUDACITIER | CC0 1.0 | https://freesound.org/people/AUDACITIER/sounds/626576/ |
+| Backrooms Ambience | Resaural | CC0 1.0 | https://freesound.org/people/Resaural/sounds/626096/ |
+| April Showers: Sweet Lo-Fi Piano Vibes | kjartan_abel | CC BY | https://freesound.org/people/kjartan_abel/sounds/608392/ |
+| fouryearoldchild_laughing | morgantj | CC BY | https://freesound.org/people/morgantj/sounds/60157/ |
+| Swipe Whoosh | qubodup | CC0 1.0 | https://freesound.org/people/qubodup/sounds/60007/ |
+| Jazz Background Music Loop | Migfus20 | CC BY | https://freesound.org/people/Migfus20/sounds/564001/ |
+| Pop down impact_1(4lrs,mltprcssng) | newlocknew | CC BY | https://freesound.org/people/newlocknew/sounds/553519/ |
+| Pop down impact_4(9lrs,mltprcssng) | newlocknew | CC BY | https://freesound.org/people/newlocknew/sounds/553518/ |
+| Cinematic Boom Impact Hit 2021 | EminYILDIRIM | CC BY | https://freesound.org/people/EminYILDIRIM/sounds/553418/ |
+| Stardust, Minimalist Piano Background Music That Evokes Emotion | kjartan_abel | CC BY | https://freesound.org/people/kjartan_abel/sounds/546087/ |
+| Bottle Pop Up UI | EminYILDIRIM | CC BY | https://freesound.org/people/EminYILDIRIM/sounds/539167/ |
+| Key Strokes | ThunderQuads | CC0 1.0 | https://freesound.org/people/ThunderQuads/sounds/467188/ |
+| Lightly snowing | florianreichelt | CC0 1.0 | https://freesound.org/people/florianreichelt/sounds/453167/ |
+| Typewriter Button SLIDE 1B | mincedbeats | CC0 1.0 | https://freesound.org/people/mincedbeats/sounds/433599/ |
+| Jew's Harp, Single, A (H1) | InspectorJ | CC BY | https://freesound.org/people/InspectorJ/sounds/411494/ |
+| Jew's Harp, Single, A (H4n) | InspectorJ | CC BY | https://freesound.org/people/InspectorJ/sounds/411493/ |
+| kids_WOAH | DesignDean | CC0 1.0 | https://freesound.org/people/DesignDean/sounds/397317/ |
+| Violin Scare | SirBedlam | CC BY | https://freesound.org/people/SirBedlam/sounds/393824/ |
+| Typewriter loop 4 94 bpm | Owl | CC BY | https://freesound.org/people/Owl/sounds/387907/ |
+| Boy or Young Child Laughing | OBXJohn | CC0 1.0 | https://freesound.org/people/OBXJohn/sounds/365632/ |
+| PUNCH-BOXING-04 | newagesoup | CC0 1.0 | https://freesound.org/people/newagesoup/sounds/348241/ |
+| Crowd shock | deleted_user_2104797 | CC0 1.0 | https://freesound.org/people/deleted_user_2104797/sounds/324898/ |
+| Crowd gasp | deleted_user_2104797 | CC0 1.0 | https://freesound.org/people/deleted_user_2104797/sounds/324895/ |
+| Crowd laugh | deleted_user_2104797 | CC0 1.0 | https://freesound.org/people/deleted_user_2104797/sounds/324894/ |
+| Whimper_Gasp_1_Female | Drkvixn91 | CC0 1.0 | https://freesound.org/people/Drkvixn91/sounds/318078/ |
+| Evil Laugh 9 | Nanakisan | CC BY | https://freesound.org/people/Nanakisan/sounds/253534/ |
+| Transformers Type SFX 2 | hykenfreak | CC BY | https://freesound.org/people/hykenfreak/sounds/248182/ |
+| Deepest Boom Yet | hykenfreak | CC BY | https://freesound.org/people/hykenfreak/sounds/248150/ |
+| Blip Pop | GameAudio | CC0 1.0 | https://freesound.org/people/GameAudio/sounds/220190/ |
+| neck_crack | Halleck | CC BY | https://freesound.org/people/Halleck/sounds/21914/ |
+| Stick-Swoosh Whoosh | Hitrison | CC BY | https://freesound.org/people/Hitrison/sounds/216675/ |
+| Metal Hit Cartoon | Johnnyfarmer | CC0 1.0 | https://freesound.org/people/Johnnyfarmer/sounds/209771/ |
+| Boing Jump [CC-BY, cfork, boing_raw.aif, 7967] | qubodup | CC BY | https://freesound.org/people/qubodup/sounds/172660/ |
+| swoosh | Halgrimm | CC0 1.0 | https://freesound.org/people/Halgrimm/sounds/169867/ |
+| Cinematic Deep Bass Hit | VibeEnterprise | CC BY | https://freesound.org/people/VibeEnterprise/sounds/169335/ |
+| Whoosh | ztrees1 | CC BY | https://freesound.org/people/ztrees1/sounds/134935/ |
 | Inspiring Soft Background | Soundrider/Dope | CC BY | https://www.jamendo.com/track/1670559 |
 | small crowd yelling 'YEAH' | Tomlija | CC BY | https://freesound.org/people/Tomlija/sounds/99636/ |
 | Cartoon falling whistle | CGEffex | CC BY | https://freesound.org/people/CGEffex/sounds/89538/ |
