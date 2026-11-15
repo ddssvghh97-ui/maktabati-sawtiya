@@ -4,6 +4,48 @@ Sounds marked **CC BY** require crediting the author when used in a published vi
 
 | Title | Author | License | Source |
 |---|---|---|---|
+| THE CRASH | sandyrb | CC BY | https://freesound.org/people/sandyrb/sounds/95078/ |
+| Till With Bell | Benboncan | CC BY | https://freesound.org/people/Benboncan/sounds/91924/ |
+| Ta-Da Fanfare | Qvantor | CC0 1.0 | https://freesound.org/people/Qvantor/sounds/878609/ |
+| Power Up Charge | Qvantor | CC0 1.0 | https://freesound.org/people/Qvantor/sounds/878599/ |
+| A Positive And Inspiring Ambient | Muyo5438 | CC BY | https://freesound.org/people/Muyo5438/sounds/714924/ |
+| quick woosh | florianreichelt | CC0 1.0 | https://freesound.org/people/florianreichelt/sounds/683101/ |
+| Flashlight - Evolving Ambient Track (Loopable) | kjartan_abel | CC BY | https://freesound.org/people/kjartan_abel/sounds/610747/ |
+| 4 Pop in a row | lem120 | CC0 1.0 | https://freesound.org/people/lem120/sounds/567087/ |
+| Keyboard, computer, mechanical, typing, quickly, rapidly, keys, press, button, c | MattRuthSound | CC BY | https://freesound.org/people/MattRuthSound/sounds/561689/ |
+| Keyboard, computer, mechanical, typing, Quickly, rapidly, keys, press, button, c | MattRuthSound | CC BY | https://freesound.org/people/MattRuthSound/sounds/561683/ |
+| Keyboard, computer, mechanical, typing, keys, press, button, click, tap, Four ke | MattRuthSound | CC BY | https://freesound.org/people/MattRuthSound/sounds/561675/ |
+| Keyboard, computer, mechanical, typing, individual keys, press, button, click, t | MattRuthSound | CC BY | https://freesound.org/people/MattRuthSound/sounds/561674/ |
+| Rock Background Music | Migfus20 | CC BY | https://freesound.org/people/Migfus20/sounds/560443/ |
+| Fun & Relaxing Piano Music | Migfus20 | CC BY | https://freesound.org/people/Migfus20/sounds/559852/ |
+| Funny Boing 1 | miksmusic | CC BY | https://freesound.org/people/miksmusic/sounds/497705/ |
+| gasping | Alivvie | CC0 1.0 | https://freesound.org/people/Alivvie/sounds/436781/ |
+| Woosh_Low_02 | moogy73 | CC0 1.0 | https://freesound.org/people/moogy73/sounds/425700/ |
+| Street Ambience of Sri Lanka | florianreichelt | CC0 1.0 | https://freesound.org/people/florianreichelt/sounds/423450/ |
+| morseattack_iLLCommunications_suonho | suonho | CC BY | https://freesound.org/people/suonho/sounds/4009/ |
+| Dystopian Future - FX Sounds (8) | BurghRecords | CC0 1.0 | https://freesound.org/people/BurghRecords/sounds/390539/ |
+| Laugh Crowd 1 | FunWithSound | CC BY | https://freesound.org/people/FunWithSound/sounds/381375/ |
+| Sitcom Laughter with Applause, Small Audience | Kinoton | CC0 1.0 | https://freesound.org/people/Kinoton/sounds/371562/ |
+| Crow Caw | Jofae | CC0 1.0 | https://freesound.org/people/Jofae/sounds/361470/ |
+| cricket | vintprox | CC BY | https://freesound.org/people/vintprox/sounds/352789/ |
+| Cha Ching | deleted_user_96253 | CC0 1.0 | https://freesound.org/people/deleted_user_96253/sounds/351304/ |
+| Deep Whoosh #2 | Kinoton | CC0 1.0 | https://freesound.org/people/Kinoton/sounds/351259/ |
+| Deep Whoosh #1 | Kinoton | CC0 1.0 | https://freesound.org/people/Kinoton/sounds/351256/ |
+| PUNCH-BOXING-03 | newagesoup | CC0 1.0 | https://freesound.org/people/newagesoup/sounds/348242/ |
+| Whimper_Gasp_1_Male | Drkvixn91 | CC0 1.0 | https://freesound.org/people/Drkvixn91/sounds/318077/ |
+| gaspy | FreqMan | CC BY | https://freesound.org/people/FreqMan/sounds/31362/ |
+| Bang/Explosion Metallic | Werra | CC0 1.0 | https://freesound.org/people/Werra/sounds/244394/ |
+| Swoosh Explosion | Electroviolence | CC0 1.0 | https://freesound.org/people/Electroviolence/sounds/234555/ |
+| Swoosh 5 | Electroviolence | CC0 1.0 | https://freesound.org/people/Electroviolence/sounds/234553/ |
+| Cash Register Purchase | Zott820 | CC0 1.0 | https://freesound.org/people/Zott820/sounds/209578/ |
+| Cash Register | kiddpark | CC BY | https://freesound.org/people/kiddpark/sounds/201159/ |
+| Cash Register Fake | CapsLok | CC0 1.0 | https://freesound.org/people/CapsLok/sounds/184438/ |
+| Cinematic Impact | deleted_user_3277771 | CC0 1.0 | https://freesound.org/people/deleted_user_3277771/sounds/177242/ |
+| Impact | chriskalos | CC BY | https://freesound.org/people/chriskalos/sounds/172779/ |
+| Cinema Boom impact #1 | beman87 | CC BY | https://freesound.org/people/beman87/sounds/162850/ |
+| Laughing_Audience | unchaz | CC BY | https://freesound.org/people/unchaz/sounds/150968/ |
+| Store Scanner Beep | zerolagtime | CC0 1.0 | https://freesound.org/people/zerolagtime/sounds/144418/ |
+| big crowd laughter | Kyster | CC BY | https://freesound.org/people/Kyster/sounds/124028/ |
 | Cartoon_Falling....falling | CGEffex | CC BY | https://freesound.org/people/CGEffex/sounds/89546/ |
 | notification chime | mokasza | CC BY | https://freesound.org/people/mokasza/sounds/810191/ |
 | MUSCBrass-Blue Snowball Microphone, CU_'Ta Da!', Duo Trumpet_Nicholas Judy_TDC | designerschoice | CC BY | https://freesound.org/people/designerschoice/sounds/809020/ |
